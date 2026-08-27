@@ -4,4 +4,4 @@ Bot offline Gadu-Gadu z opcją dodawania i ustawiania komend. Projekt ten jest d
 ### Funkcje bota
 - [X] logowanie się do serwera (5 wersją protokołu GG)
 - [X] self-check wysyłania wiadomości
-- [ ] przykładowe komendy. (`/hello`, `/time`, `/bye` itd.)
+- [ ] przykładowe komendy. (`/hello`, `/time`, `/bye` itd.) _w trakcie implementacji i testowania_
